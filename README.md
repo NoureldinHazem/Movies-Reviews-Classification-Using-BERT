@@ -69,4 +69,9 @@ Your comments on all results and comparisons.</br></br>
 7. Bonus</br>
 Finetune the number of hidden dense layers we need to add for classification and the
 number of units in each layer using the validation set. Then test the best model using
-the testing set and report all the above required metrics.
+the testing set and report all the above required metrics.</br></br>
+
+This was the final project AI course</br></br>
+This Project was done by:</br>
+1. Amr Mohamed Salah</br>
+2. Nour El-Din Hazem
